@@ -9,7 +9,7 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/Riumaa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roumaa&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/Riumaa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riumaa&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
