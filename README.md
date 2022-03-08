@@ -6,13 +6,23 @@
 </br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riumaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+    </a>
+</p>
+<hr/>
+<p align="center">
+    <a href="https://github.com/Riumaa/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 
-<br/>  
+  </a> 
 
-<div align="center">
-<p><a href="https://github.com/Riumaa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riumaa&amp;layout=compact" alt="Top Langs"></a></p></div>  
-
+  <a href="https://github.com/Riumaa/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  </a> 
+<br>
+<a href="https://github.com/Roumaa/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+  </a>
+</p>
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
   
