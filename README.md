@@ -7,7 +7,6 @@
 
 ## Github Stats  
 
-</p>
 <hr/>
 <p align="center">
     <a href="https://github.com/Riumaa/">
@@ -21,6 +20,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riumaa&theme=gruvbox&langs_count=8&layout=compact" />
   </a>
 </p>
+
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
   
