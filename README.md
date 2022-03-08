@@ -1,7 +1,9 @@
-# My-Home 
-
-
-
+<h2 align="center">
+  Hello World! I am <strong>Riu</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
+<p align="center">
+  I am developing a music bot, namely Bot Rem, and the bot still wants to be updated to make it better and neater for every command, You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.com">Discord</a></strong>
+</br>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Riumaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
