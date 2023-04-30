@@ -25,6 +25,8 @@
 <div align="center">
   
 <br/>  
-<img src="https://komarev.com/ghpvc/?username=Adinfauzan&&style=flat-square" align="center" />
-</div> 
+<img src="https://komarev.com/ghpvc/?username=Adinfauzan&&style=flat-square" align="center"/>
+<br/>
+<img src="https://discord.io/RiuStudio/badge" align="center"/>
+</div>
 <br/> 
