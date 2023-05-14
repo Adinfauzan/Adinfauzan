@@ -1,11 +1,13 @@
 <h2 align="center">
-  Hello World! I am <strong>Riu</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hello World! I am <strong> Adin Fauzan </strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-  I am developing a music bot, namely Bot Rem, and the bot still wants to be updated to make it better and neater for every command, </br> You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.io/RiuStudio+">Discord</a></strong>
+ Hello, I'm Adin Fauzan, usually called Riu, I am the front end in my programming team, I also often make designs, even when I go to school majoring in Visual Communication Design <strong>DKV</strong>, I hope the Projects I made on my Github are useful for you and others.
+
+Oh yeah, if you want to buy web/templates and digital asset materials, you can contact me directly via<strong> <a href="https://discord.io/RiuStudio+">Discord</a></strong>
 </br>
 
-## Github Stats  
+### Github Stats  
 
 <hr/>
 <p align="center">
