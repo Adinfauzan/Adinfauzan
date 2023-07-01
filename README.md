@@ -29,6 +29,6 @@ Oh yeah, if you want to buy web/templates and digital asset materials, you can c
 <br/>  
 <img src="https://komarev.com/ghpvc/?username=Adinfauzan&&style=flat-square" align="center"/>
 <br/>
-<img src="https://discord.io/RiuStudio/badge" align="center"/>
+<img src="https://discord.io/mindscapesociety/badge" align="center"/>
 </div>
 <br/> 
