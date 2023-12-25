@@ -34,17 +34,16 @@
 </a>
 </div>
 
-<br>
+<br/>
 <p align="center">
 <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzan&theme=tokyonight" /></a>
-<br>
+<br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
-<br/>  
+## Connections:
 
-## Connections:  
 <div align="center">
 <a href="https://linkedin.com/in/Adinfauzan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -62,11 +61,10 @@
 <img src=https://img.shields.io/badge/CodeChef-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-<br/>  
 
+
+
+<br/>
 <div align="center">
-<br/>  
 <img src="https://komarev.com/ghpvc/?username=Adinfauzan&&style=flat-square" align="center"/>
 </div>
-<br/> 
