@@ -2,7 +2,7 @@
 <!-- <img src="https://adinfauzan.github.io/static/images/greetings.gif" align="center" style="width: 30%" /> -->
   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/Adinfauzan)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Halo%2C+Dunia!+%2F+%3E;%3C%F0%9F%91%8B+Suki%2C+Desu!+%2F+%3E;%3C%F0%9F%91%8B+Negara%2C+Indonesia!+%2F+%3E)](https://github.com/Adinfauzan)
   
 </div>  
 
@@ -10,9 +10,9 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Adin+Fauzan.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Web+Developer.)](https://github.com/Adinfauzan)
   
 - 🏫 Gunung Putri Bogor, Indonesia
-- 👨🏻‍💻 Web Developer 
-- 🌱 I’m currently learning DSA
-- Building [@RiuStudio](https://github.com/RiuStudio/Sora)
+- 👨🏻‍💻 Web Developer
+- 🌱 I’m currently learning
+- 🏢 Building [@RiuStudio](https://github.com/RiuStudio)
 </div>
 
 <br/>  
@@ -22,9 +22,23 @@
 ⚙ Tools:
  <br>
  <!-- Tool: VSC -->
- <p align="left"> 
+ <p align="left" >
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
+	 
+<!-- Tool: Ts -->
+<p align="" >
+<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
 
+<!-- Tool: Ts 
+<p align="" >
+<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
+
+<!-- Tool: Ts 
+<p align="" >
+<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
+<br>
+-->
+ 
 ### Stats
 
 <br/>
@@ -55,8 +69,7 @@
 </a>
 
 </div>  
-
-
+<br>
 
 <br/>
 <div align="center">
