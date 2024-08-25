@@ -20,24 +20,13 @@
 ## Github Stats
 
 ⚙ Tools:
- <br>
  <!-- Tool: VSC -->
- <p align="left" >
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
-	 
+
 <!-- Tool: Ts -->
-<p align="" >
-<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
+<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a>
 
-<!-- Tool: Ts 
-<p align="" >
-<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
-
-<!-- Tool: Ts 
-<p align="" >
-<a href= "https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48"/> </a> </p>
-<br>
--->
+<!-- Tool: Next.js -->
  
 ### Stats
 
@@ -45,20 +34,16 @@
 <p align="center">
 <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzan&theme=tokyonight" /></a>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
 ## Connections:
 
 <div align="center">
-<a href="https://linkedin.com/in/Adinfauzan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-	
-<a href="https://instagram.com/adinoehh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
-</a>
 	
 <a href="https://github.com/Adinfauzan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,6 +51,11 @@
 
 <a href="https://www.codechef.com/users/adinfauzan" target="_blank">
 <img src=https://img.shields.io/badge/CodeChef-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://discadia.com/Soraa" target="_blank">
+<img src=https://img.shields.io/discord/1116971049045729302?&style=for-the-badge&logo=discord&logoColor=white
+alt=Soraserver style="margin-bottom: 5px;"/>
 </a>
 
 </div>  
