@@ -30,16 +30,18 @@
  
 ### Stats
 
+<div align="center">
+<img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzan&theme=tokyonight" />
+</div>
 <br/>
-<p align="center">
-<a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinfauzan&theme=tokyonight" /></a>
+
+<div align=""center>
+<img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adinfauzan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinfauzan&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
 ## Connections:
 
