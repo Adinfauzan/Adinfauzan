@@ -23,8 +23,8 @@ Spotify
 -->
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31g3qe65he5vuqibcwjkkijuksay" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g3qe65he5vuqibcwjkkijuksay&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31mkyzow45mnwk4a33vsb2m4rg7i" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mkyzow45mnwk4a33vsb2m4rg7i&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
