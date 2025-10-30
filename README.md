@@ -15,7 +15,8 @@
 - 🏫 Gunung Putri Bogor, Indonesia
 - 👨🏻‍💻 Web Developer
 - 🌱 I’m currently learning
-- 🏢 Building [@RiuStudio](https://github.com/RiuStudio)
+- 🏢 Building [Soraku](https://dcd.gg/soraku)
+- 🌐 [News Web](https://www.soraku.site) [Web Streaming](https://www.soraku.live)
 </div>
 
 <!--
